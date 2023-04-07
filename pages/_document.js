@@ -7,6 +7,8 @@ export default function Document() {
       <body>
         <Main />
         <NextScript />
+        <script src="path/to/particles.min.js"></script>
+        
       </body>
     </Html>
   )
